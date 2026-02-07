@@ -2,9 +2,9 @@
   "response": [
     {
       "maintainer": "CRAZY_JOKER67",
-      "currently_maintained": true,
-      "oem": "TECNO",
-      "device": "TECNO POVA5",
+      "currently_maintained": false,
+      "oem": "",
+      "device": "",
       "filename": "EvolutionX-16.0-20260207-LH7n-11.6.1-Unofficial.zip",
       "download": "https://drive.serverhive.in/drive/OWIbp794s9jbn9_uND-U0tmP/LH7n/2026-02-07/EvolutionX-16.0-20260207-LH7n-11.6.1-Unofficial.zip",
       "timestamp": 1770463632,
@@ -16,7 +16,7 @@
       "forum": "",
       "firmware": "",
       "paypal": "",
-      "github": "github.com/Andreyka445",
+      "github": "",
       "initial_installation_images": [],
       "extra_images": []
     }
